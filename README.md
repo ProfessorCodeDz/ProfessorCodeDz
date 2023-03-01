@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ProfessorCode
+- 👋 Hi, I’m Riad .Z
 - 👀 I’m interested in Web Dev
-- 🌱 I’m currently learning Front End Dev
+- 🌱 I’m a Front End Dev
 
 <!---
 ProfessorCodeDz/ProfessorCodeDz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
